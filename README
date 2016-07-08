@@ -1,0 +1,9 @@
+unm - the ultimate nm
+
+Created by Alexandre Monti, 2016, QC
+Contact me at monti (at) etud (dot) insa-toulouse (dot) fr
+
+This program can be used to extract symbol information
+from stripped ELF files.
+It will exploit informations from the .eh_frame section
+in order to get a list of (address, size) pairs
